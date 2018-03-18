@@ -1,3 +1,2 @@
-
-|---|---|
-|Link | Description |
+| Link | Description |
+| ------ | ------ |
