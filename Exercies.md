@@ -38,3 +38,4 @@
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-continuous-integration-pipelines-with-concourse-ci-on-ubuntu-16-04
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-continuous-integration-pipelines-with-drone-on-ubuntu-16-04
 * https://www.digitalocean.com/community/tutorials/how-to-set-up-continuous-integration-with-buildbot-on-ubuntu-16-04
+* https://www.digitalocean.com/community/tutorials/how-to-set-up-continuous-integration-pipelines-with-gitlab-ci-on-ubuntu-16-04
